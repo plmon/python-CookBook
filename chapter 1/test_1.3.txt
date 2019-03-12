@@ -1,0 +1,11 @@
+this is a test document for python CookBook
+this line include python
+this line don not include py
+python 1
+no 1
+python 2
+python 3
+no2
+no3
+no4
+python 4
